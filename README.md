@@ -18,12 +18,12 @@ Welcome to my personal cybersecurity learning journal. I'm currently pursuing Co
 - Signed up on TryHackMe
 - Started "Introduction to Cyber Security" room
 - Learned about basic networking and cyber attack types
-### 🗓️ April 27, 2025
+###  April 27, 2025
 
-#### ✅ Course Completed:
+##### ✅ Course Completed:
 - **Getting Started with Cisco Packet Tracer** (Cisco Networking Academy)
 
-#### 📚 Summary:
+##### 📚 Summary:
 - Learned the basics of using Cisco Packet Tracer simulation software.
 - Built simple networks and added/configured basic devices.
 - Practiced running network simulations and troubleshooting connectivity.
