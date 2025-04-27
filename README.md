@@ -38,3 +38,29 @@ Explored the basics of cybersecurity including types of cyber attacks, security 
 - Started the FreeCodeCamp Beginner Penetration Testing course.
 - Set up Kali Linux in dual-boot alongside Windows to prepare my environment.
 - [Click here to view my dedicated Penetration Testing Journal repository](https://github.com/Pranavbarathi05/Penetration-testing.git)
+
+## 🗓️ April 27, 2025
+
+### ✅ Course Completed:
+- **Getting Started with Cisco Packet Tracer** (Cisco Networking Academy)
+
+### 📚 Summary:
+- Learned the basics of using Cisco Packet Tracer simulation software.
+- Built simple networks and added/configured basic devices.
+- Practiced running network simulations and troubleshooting connectivity.
+- Gained confidence in navigating Packet Tracer for future networking and cybersecurity labs.
+
+### 🎯 Next Steps:
+- Apply Packet Tracer skills in upcoming cybersecurity exercises.
+- Start exploring basic network security setups (firewalls, access control lists) within Packet Tracer.
+
+---
+
+**🏆 Progress Tracker:**
+| Milestone | Status |
+|:----------|:------:|
+| Introduction to Cybersecurity | ✅ Completed |
+| Getting Started with Packet Tracer | ✅ Completed |
+| Basic Networking Labs | ⏳ In Progress |
+| Penetration Testing Labs | 🔜 Upcoming |
+
